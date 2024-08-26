@@ -513,7 +513,7 @@ const Form = () => {
                 </div>
                 <div className="form-datos-trabajador">
                   <label htmlFor="tecnico4">NOMBRE TECNICO 4</label>
-                  <TextField 
+                  <TextField
                     type='text' 
                     id='tecnico4'
                     label="Escribe aqui" 
